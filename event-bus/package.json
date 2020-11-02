@@ -1,7 +1,7 @@
 {
-  "name": "posts",
+  "name": "event-bus",
   "version": "1.0.0",
-  "description": "A simple backend build for the purpose of learning microservices",
+  "description": "A event bus to connect the microservices together",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
-    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {

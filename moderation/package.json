@@ -1,16 +1,16 @@
 {
-  "name": "posts",
+  "name": "moderation",
   "version": "1.0.0",
-  "description": "A simple backend build for the purpose of learning microservices",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Nam Nguyen",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
-    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {

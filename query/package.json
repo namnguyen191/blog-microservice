@@ -1,7 +1,7 @@
 {
-  "name": "posts",
+  "name": "query",
   "version": "1.0.0",
-  "description": "A simple backend build for the purpose of learning microservices",
+  "description": "Query to join microservices together",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
